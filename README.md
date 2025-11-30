@@ -48,6 +48,7 @@ DATE:
 ---
 3.## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
 ---
+<img width="549" height="440" alt="image" src="https://github.com/user-attachments/assets/a146be6f-100a-433f-9e82-0553d58664e4" />
 
 ---
 
@@ -55,16 +56,17 @@ DATE:
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
-PASTE THE OUTPUT WAVEFORM HERE
+<img width="1906" height="445" alt="image" src="https://github.com/user-attachments/assets/7ed566e3-6b50-4008-9339-5e7319600815" />
+
 ---
 4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
 ---
-<img width="711" height="434" alt="image" src="https://github.com/user-attachments/assets/a33fe079-b684-4141-a4c4-05430e1eaaae" />
+<img width="683" height="385" alt="image" src="https://github.com/user-attachments/assets/2f4408d8-4c5b-43a1-b202-21a16c878acb" />
 
 
 
-## OUT PUT WAVEFORM AND DISCUSSION 
-
+## OUTPUT WAVEFORM AND DISCUSSION 
+<img width="1899" height="437" alt="image" src="https://github.com/user-attachments/assets/64293e0f-8194-45c6-b295-0cb43cb58fa9" />
 
 ---
 
