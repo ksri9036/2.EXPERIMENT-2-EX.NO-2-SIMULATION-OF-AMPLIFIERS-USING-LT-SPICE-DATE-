@@ -31,23 +31,23 @@ DATE:
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2025-11-15 at 10 57 20 AM](https://github.com/user-attachments/assets/27e221fd-63ba-4222-9150-67da5d81c647)
+<img width="1894" height="433" alt="image" src="https://github.com/user-attachments/assets/e8d94399-243e-4c54-9761-a9c6a2e877ea" />
+
 
 ---
 
 2.## CIRCUIT DIAGRAM -NON INVERTING AMPLIFIER
-
-PASTE THE CIRCUIT HERE
 ---
-
+<img width="809" height="432" alt="image" src="https://github.com/user-attachments/assets/cc01fd1f-ce1b-4e06-81f3-956cde67b0c8" />
 
 ---
 ## OUTPUT WAVEFORM AND DISCUSSION 
+---
+<img width="1893" height="433" alt="image" src="https://github.com/user-attachments/assets/3828f9d3-39e4-4831-b8ab-a2c00b541b00" />
 
-PASTE THE OUTPUT WAVEFORM HERE
 ---
 3.## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
-
+---
 PASTE THE CIRCUIT HERE
 ---
 
