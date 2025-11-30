@@ -20,16 +20,13 @@
 
 ---
 
-1.## CIRCUIT DIAGRAM -INVERTING AMPLIFIER
-
+## CIRCUIT DIAGRAM -INVERTING AMPLIFIER
+---
 <img width="614" height="309" alt="image" src="https://github.com/user-attachments/assets/130b1919-308e-412b-a19d-ea9a5ed415d9" />
 
 
 ---
-
-
----
-## OUT PUT WAVEFORM AND DISCUSSION 
+## OUTPUT WAVEFORM AND DISCUSSION 
 
 <img width="1894" height="433" alt="image" src="https://github.com/user-attachments/assets/e8d94399-243e-4c54-9761-a9c6a2e877ea" />
 
