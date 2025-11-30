@@ -19,7 +19,7 @@
 
 ---
 
-## CIRCUIT DIAGRAM -INVERTING AMPLIFIER
+## 1.  CIRCUIT DIAGRAM -INVERTING AMPLIFIER
 ---
 <img width="614" height="309" alt="image" src="https://github.com/user-attachments/assets/130b1919-308e-412b-a19d-ea9a5ed415d9" />
 
