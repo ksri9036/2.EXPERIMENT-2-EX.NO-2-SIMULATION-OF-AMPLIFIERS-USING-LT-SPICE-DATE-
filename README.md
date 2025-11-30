@@ -32,7 +32,7 @@
 
 ---
 
-2. ## CIRCUIT DIAGRAM -NON INVERTING AMPLIFIER
+##2. ## CIRCUIT DIAGRAM -NON INVERTING AMPLIFIER
 ---
 <img width="809" height="432" alt="image" src="https://github.com/user-attachments/assets/cc01fd1f-ce1b-4e06-81f3-956cde67b0c8" />
 
@@ -42,7 +42,7 @@
 <img width="1893" height="433" alt="image" src="https://github.com/user-attachments/assets/3828f9d3-39e4-4831-b8ab-a2c00b541b00" />
 
 ---
-3. ## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
+##3. ## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
 ---
 <img width="549" height="440" alt="image" src="https://github.com/user-attachments/assets/a146be6f-100a-433f-9e82-0553d58664e4" />
 
@@ -55,7 +55,7 @@
 <img width="1906" height="445" alt="image" src="https://github.com/user-attachments/assets/7ed566e3-6b50-4008-9339-5e7319600815" />
 
 ---
-4. ## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
+##4. ## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
 ---
 <img width="683" height="385" alt="image" src="https://github.com/user-attachments/assets/2f4408d8-4c5b-43a1-b202-21a16c878acb" />
 
