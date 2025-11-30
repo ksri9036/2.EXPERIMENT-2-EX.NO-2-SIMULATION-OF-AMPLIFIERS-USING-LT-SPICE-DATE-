@@ -22,7 +22,7 @@ DATE:
 
 1.## CIRCUIT DIAGRAM -INVERTING AMPLIFIER
 
-<img width="1280" height="820" alt="image" src="https://github.com/user-attachments/assets/6c84b614-52e4-4620-982c-99d422c7a541" />
+<img width="614" height="309" alt="image" src="https://github.com/user-attachments/assets/86e2e5c7-3df0-4b64-ac1d-8962b4413872" />
 
 
 ---
