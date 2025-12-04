@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-12-04 at 11 30 51_c46e7180](https://github.com/user-attachments/assets/bd67b14a-c467-4bad-a253-d04800ddb426)## **EX.NO:** 2 SIMULATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS USING LT SPICE
+## **EX.NO:** 2 SIMULATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS USING LT SPICE
 ## DATE: 30-08-2025 
 
 
@@ -22,7 +22,7 @@
 ## 1.  CIRCUIT DIAGRAM -INVERTING AMPLIFIER
 ---
 <img width="614" height="309" alt="image" src="https://github.com/user-attachments/assets/130b1919-308e-412b-a19d-ea9a5ed415d9" />
-![WhatsApp Image 2025-12-04 at 11 30 11_a4df9b58](https://github.com/user-attachments/assets/7b71b8ab-daa1-46f1-8a1a-0dd8fa07c06c)
+![WhatsApp Image 2025-12-04 at 11 30 11_448b066b](https://github.com/user-attachments/assets/58f60b4a-f3d0-40db-a23e-70763749ff57)
 
 
 ---
@@ -36,7 +36,7 @@
 ## 2.  CIRCUIT DIAGRAM -NON INVERTING AMPLIFIER
 ---
 <img width="809" height="432" alt="image" src="https://github.com/user-attachments/assets/cc01fd1f-ce1b-4e06-81f3-956cde67b0c8" />
-![WhatsApp Image 2025-12-04 at 11 30 51_6276c0bb](https://github.com/user-attachments/assets/b7d702e8-85e6-412f-85e5-b8c0740a5471)
+![WhatsApp Image 2025-12-04 at 11 30 51_e30a4546](https://github.com/user-attachments/assets/2ee0d6a7-c737-4ffd-81dc-fd985f1e6ce3)
 
 ---
 ## OUTPUT WAVEFORM AND DISCUSSION 
@@ -47,7 +47,7 @@
 ## 3.  CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
 ---
 <img width="549" height="440" alt="image" src="https://github.com/user-attachments/assets/a146be6f-100a-433f-9e82-0553d58664e4" />
-![WhatsApp Image 2025-12-04 at 11 31 48_fd9e1425](https://github.com/user-attachments/assets/ec0d44ac-77f8-4cde-8a17-3b39974f2fcd)
+![WhatsApp Image 2025-12-04 at 11 31 48_25397b90](https://github.com/user-attachments/assets/1491bb3b-1124-402e-8180-99f677c62c1b)
 
 ---
 
@@ -61,7 +61,7 @@
 ## 4. CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
 ---
 <img width="683" height="385" alt="image" src="https://github.com/user-attachments/assets/2f4408d8-4c5b-43a1-b202-21a16c878acb" />
-![WhatsApp Image 2025-12-04 at 11 32 14_237ee96b](https://github.com/user-attachments/assets/549c4d50-7f84-4708-a2c1-e0a81b0629b6)
+![WhatsApp Image 2025-12-04 at 11 32 14_44aaafae](https://github.com/user-attachments/assets/3677011b-ab58-4661-a6cd-f7fcde4ebe11)
 
 
 
