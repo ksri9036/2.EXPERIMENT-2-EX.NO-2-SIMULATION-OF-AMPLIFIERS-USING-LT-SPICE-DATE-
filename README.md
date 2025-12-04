@@ -38,7 +38,9 @@
 ## 2.  CIRCUIT DIAGRAM -NON INVERTING AMPLIFIER
 ---
 <img width="809" height="432" alt="image" src="https://github.com/user-attachments/assets/cc01fd1f-ce1b-4e06-81f3-956cde67b0c8" />
-![2](https://github.com/user-attachments/assets/23afcdcd-788c-4898-a0c0-dcf71ef56133)
+
+
+![2](https://github.com/user-attachments/assets/cfe6af26-b995-4756-87e8-4432d0b608f6)
 
 ---
 ## OUTPUT WAVEFORM AND DISCUSSION 
@@ -49,7 +51,10 @@
 ## 3.  CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
 ---
 <img width="549" height="440" alt="image" src="https://github.com/user-attachments/assets/a146be6f-100a-433f-9e82-0553d58664e4" />
-![3](https://github.com/user-attachments/assets/d624fde6-a02c-4ff9-a57d-85da506f391e)
+
+
+
+![3](https://github.com/user-attachments/assets/0e3d0a79-207e-4476-b509-b9210b5077fe)
 
 ---
 
@@ -63,8 +68,9 @@
 ## 4. CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
 ---
 <img width="683" height="385" alt="image" src="https://github.com/user-attachments/assets/2f4408d8-4c5b-43a1-b202-21a16c878acb" />
-![4](https://github.com/user-attachments/assets/c2d684fa-5e4d-4de9-afa1-189006468adb)
 
+
+![4](https://github.com/user-attachments/assets/eb505d13-2c5d-4810-a0d6-7616a1310bfd)
 
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
