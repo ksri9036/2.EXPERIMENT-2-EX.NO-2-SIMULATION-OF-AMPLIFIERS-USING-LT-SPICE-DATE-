@@ -22,7 +22,9 @@
 ## 1.  CIRCUIT DIAGRAM -INVERTING AMPLIFIER
 ---
 <img width="614" height="309" alt="image" src="https://github.com/user-attachments/assets/130b1919-308e-412b-a19d-ea9a5ed415d9" />
-![WhatsApp Image 2025-12-04 at 11 30 11_448b066b](https://github.com/user-attachments/assets/58f60b4a-f3d0-40db-a23e-70763749ff57)
+
+
+![1](https://github.com/user-attachments/assets/53191e14-31dd-4638-9be1-262c244ea3e6)
 
 
 ---
@@ -36,7 +38,7 @@
 ## 2.  CIRCUIT DIAGRAM -NON INVERTING AMPLIFIER
 ---
 <img width="809" height="432" alt="image" src="https://github.com/user-attachments/assets/cc01fd1f-ce1b-4e06-81f3-956cde67b0c8" />
-![WhatsApp Image 2025-12-04 at 11 30 51_e30a4546](https://github.com/user-attachments/assets/2ee0d6a7-c737-4ffd-81dc-fd985f1e6ce3)
+![Uploading 2.jpg…]()
 
 ---
 ## OUTPUT WAVEFORM AND DISCUSSION 
